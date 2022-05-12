@@ -7,7 +7,7 @@ Office Phone: (+86) 021 3124 3845
 
 Email: dingqi@fudan.edu.cn
 
-![This is an image](E:\github\半身像.jpg)  
+![image](https://github.com/QiDing22/qiding.github.io/blob/gh-pages/%E5%8D%8A%E8%BA%AB%E5%83%8F.jpg)  
 
 ### Research interests
 - General research areas: Differential geometry, Geometric analysis, Partial differential equations, Geometric measure theory, Complex geometry.
@@ -15,7 +15,6 @@ Email: dingqi@fudan.edu.cn
 - Some specific topics: minimal submanifolds in Euclidean space, minimal hypersurfaces in manifolds, mean curvature flows and their self-similar solutions, Lagrangian submanifolds, elliptic equations of mean curvature type, inverse mean curvature flows 
 
 ### Publications 
-
 
 - Liouville-type theorems for minimal graphs over manifolds, _Analysis & PDE_ 14(6), (2021) 1925-1949.
 - A Bernstein type theorem for minimal hypersurfaces via Gauss maps, _J. Funct. Anal._ 278(11), 2020, 108469.
