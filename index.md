@@ -1,4 +1,4 @@
-## Welcome to Qi Ding's Homepage   
+## Welcome to Qi Ding(丁琪)'s Homepage   
 
 Present Address: Shanghai Center for Mathematical Sciences, Fudan University Jiangwan Campus, 2005 Songhu Rd., Shanghai 200438, China  
 (上海数学中心，复旦大学江湾校区，淞沪路2005号，上海，200438，中国)
@@ -40,4 +40,19 @@ Email: dingqi@fudan.edu.cn
 - Existence and non-existence of minimal graphs, (with J.Jost and Y.L.Xin), arXiv:1701.01674.
 - On the self-shrinking systems in arbitrary codimensional spaces, (with Zhizhang Wang), arXiv:1012.0429, 2010.
 
+### Education
+
+- Fudan University, Shanghai, China  
+  Ph.D in Mathematics, June, 2012  
+  Thesis Advisor: Prof. Yuanlong Xin  
+  Thesis Topic: Some problems on geometric evolution equations  
+- Southeast University, Nanjing, China  
+  B. S. in Mathematics, June, 2007
+
+### Employment
+
+- Associate Professor, Shanghai Center for Mathematical Sciences, Fudan university, from July 2020
+- Assistant Professor, Shanghai Center for Mathematical Sciences, Fudan university, July 2016-June 2020
+- Young Investigator, Shanghai Center for Mathematical Sciences, Fudan university, Sep. 2014-June 2016
+- Postdoctoral Fellow, Max Planck Institute for Mathematics in the Sciences(Leipzig), July 2012-Aug. 2014
 
