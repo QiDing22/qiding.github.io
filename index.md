@@ -1,13 +1,11 @@
-## Welcome to Qi Ding's Homepage
+## Welcome to Qi Ding's Homepage   
 
-Present Address: Shanghai Center for Mathematical Sciences, Fudan University Jiangwan Campus, 2005 Songhu Rd., Shanghai 200438, China
-（上海数学中心，复旦大学江湾校区，淞沪路2005号，上海，200438，中国）
+Present Address: Shanghai Center for Mathematical Sciences, Fudan University Jiangwan Campus, 2005 Songhu Rd., Shanghai 200438, China  
+(上海数学中心，复旦大学江湾校区，淞沪路2005号，上海，200438，中国)
 
 Office Phone: (+86) 021 3124 3845
 
 Email: dingqi@fudan.edu.cn
-
-![image](https://github.com/QiDing22/qiding.github.io/blob/gh-pages/%E5%8D%8A%E8%BA%AB%E5%83%8F.jpg)  
 
 ### Research interests
 - General research areas: Differential geometry, Geometric analysis, Partial differential equations, Geometric measure theory, Complex geometry.
