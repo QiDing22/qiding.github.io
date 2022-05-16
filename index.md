@@ -14,8 +14,8 @@ Email: dingqi@fudan.edu.cn
 
 ### Publications 
 
-- Liouville-type theorems for minimal graphs over manifolds, _Analysis & PDE_ 14(6), (2021) 1925-1949.
-- A Bernstein type theorem for minimal hypersurfaces via Gauss maps, _J. Funct. Anal._ 278(11), 2020, 108469.
+- [Liouville-type theorems for minimal graphs over manifolds](https://arxiv.org/pdf/1911.10306.pdf), _Analysis & PDE_ 14(6), (2021) 1925-1949.
+- [A Bernstein type theorem for minimal hypersurfaces via Gauss maps](https://arxiv.org/pdf/1803.07132.pdf), _J. Funct. Anal._ 278(11), 2020, 108469.
 - Minimal cones and self-expanding solutions for mean curvature flows, _Math. Ann._ 376(1-2), 2020, 359-405.
 - A rigidity theorem on the second fundamental form for self-shrinkers, _Trans. A.M.S._ 370(12), 2018, 8311-8329.
 - The rigidity theorems of self shrinkers via Gauss maps, (with Y.L.Xin and Ling Yang), _Advances in Mathematics_ 303(5), 2016, 151-174.
@@ -32,10 +32,10 @@ Email: dingqi@fudan.edu.cn
 ### Preprints
 
 - [Poincare inequality on minimal graphs over manifolds and applications](https://arxiv.org/pdf/2111.04458.pdf), arXiv:2111.04458.
-- Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation (with J.Jost and Y.L.Xin), arXiv:2109.09383, 2021.
-- Minimal hypersurfaces in manifolds of Ricci curvature bounded below, arXiv:2109.02483.
-- Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below, arXiv:2107.11074.
-- Liouville type theorems and Hessian estimates for special Lagrangian equations, arXiv:1912.00604.
+- [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://arxiv.org/pdf/2109.09383.pdf) (with J.Jost and Y.L.Xin), arXiv:2109.09383, 2021.
+- [Minimal hypersurfaces in manifolds of Ricci curvature bounded below](https://arxiv.org/pdf/2109.02483.pdf), arXiv:2109.02483.
+- [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://arxiv.org/pdf/2107.11074.pdf), arXiv:2107.11074.
+- [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://arxiv.org/pdf/1912.00604.pdf), arXiv:1912.00604.
 - Boundary regularity for minimal graphs of higher codimensions, (with Y.L.Xin), preprint
 - Existence and non-existence of minimal graphs, (with J.Jost and Y.L.Xin), arXiv:1701.01674.
 - On the self-shrinking systems in arbitrary codimensional spaces, (with Zhizhang Wang), arXiv:1012.0429, 2010.
