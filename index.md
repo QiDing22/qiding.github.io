@@ -31,7 +31,7 @@ Email: dingqi@fudan.edu.cn
 
 ### Preprints
 
-- Poincare inequality on minimal graphs over manifolds and applications, arXiv:2111.04458.
+- [Poincare inequality on minimal graphs over manifolds and applications](https://arxiv.org/pdf/2111.04458.pdf), arXiv:2111.04458.
 - Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation (with J.Jost and Y.L.Xin), arXiv:2109.09383, 2021.
 - Minimal hypersurfaces in manifolds of Ricci curvature bounded below, arXiv:2109.02483.
 - Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below, arXiv:2107.11074.
