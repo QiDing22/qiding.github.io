@@ -37,7 +37,7 @@ Email: dingqi@fudan.edu.cn
 - [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://arxiv.org/pdf/2107.11074.pdf), arXiv:2107.11074.
 - [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://arxiv.org/pdf/1912.00604.pdf), arXiv:1912.00604.
 - Boundary regularity for minimal graphs of higher codimensions, (with Y.L.Xin), preprint
-- [Existence and non-existence of minimal graphs](https://arxiv.org/pdf/1701.01674.pdf), (with J.Jost and Y.L.Xin), arXiv:1701.01674.
+- [Existence and non-existence of minimal graphs](https://arxiv.org/pdf/1701.01674.pdf), (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), arXiv:1701.01674.
 - [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
 
 ### Education
