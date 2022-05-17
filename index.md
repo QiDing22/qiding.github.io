@@ -14,9 +14,9 @@ Email: dingqi@fudan.edu.cn
 
 ### Publications 
 
-- [Liouville-type theorems for minimal graphs over manifolds](https://arxiv.org/pdf/1911.10306.pdf), _Analysis & PDE_ 14(6), (2021) 1925-1949.
-- [A Bernstein type theorem for minimal hypersurfaces via Gauss maps](https://arxiv.org/pdf/1803.07132.pdf), _J. Funct. Anal._ 278(11), 2020, 108469.
-- Minimal cones and self-expanding solutions for mean curvature flows, _Math. Ann._ 376(1-2), 2020, 359-405.
+- [Liouville-type theorems for minimal graphs over manifolds](https://msp.org/apde/2021/14-6/apde-v14-n6-p11-p.pdf), _Analysis & PDE_ 14(6), (2021) 1925-1949.[(arxiv:1911.10306)](https://arxiv.org/pdf/1911.10306.pdf)
+- [A Bernstein type theorem for minimal hypersurfaces via Gauss maps](https://www.sciencedirect.com/science/article/pii/S0022123620300124?via%3Dihub), _J. Funct. Anal._ 278(11), 2020, 108469.[(arxiv:1803.07132)](https://arxiv.org/pdf/1803.07132.pdf)
+- [Minimal cones and self-expanding solutions for mean curvature flows](https://link.springer.com/content/pdf/10.1007/s00208-019-01941-1.pdf), _Math. Ann._ 376(1-2), 2020, 359-405.[(arxiv:1503.02612)](https://arxiv.org/pdf/1503.02612.pdf)
 - A rigidity theorem on the second fundamental form for self-shrinkers, _Trans. A.M.S._ 370(12), 2018, 8311-8329.
 - The rigidity theorems of self shrinkers via Gauss maps, (with Y.L.Xin and Ling Yang), _Advances in Mathematics_ 303(5), 2016, 151-174.
 - Subsequent singularities of mean convex mean curvature flows in smooth manifolds, _Calc. Var. Partial Differential Equations_, 55(1), 2016, 1-12.
@@ -37,8 +37,8 @@ Email: dingqi@fudan.edu.cn
 - [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://arxiv.org/pdf/2107.11074.pdf), arXiv:2107.11074.
 - [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://arxiv.org/pdf/1912.00604.pdf), arXiv:1912.00604.
 - Boundary regularity for minimal graphs of higher codimensions, (with Y.L.Xin), preprint
-- Existence and non-existence of minimal graphs, (with J.Jost and Y.L.Xin), arXiv:1701.01674.
-- On the self-shrinking systems in arbitrary codimensional spaces, (with Zhizhang Wang), arXiv:1012.0429, 2010.
+- [Existence and non-existence of minimal graphs](https://arxiv.org/pdf/1701.01674.pdf), (with J.Jost and Y.L.Xin), arXiv:1701.01674.
+- [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
 
 ### Education
 
