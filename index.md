@@ -17,16 +17,16 @@ Email: dingqi@fudan.edu.cn
 - [Liouville-type theorems for minimal graphs over manifolds](https://msp.org/apde/2021/14-6/apde-v14-n6-p11-p.pdf), _Analysis & PDE_ 14(6), (2021) 1925-1949.[(arxiv:1911.10306)](https://arxiv.org/pdf/1911.10306.pdf)
 - [A Bernstein type theorem for minimal hypersurfaces via Gauss maps](https://www.sciencedirect.com/science/article/pii/S0022123620300124?via%3Dihub), _J. Funct. Anal._ 278(11), 2020, 108469.[(arxiv:1803.07132)](https://arxiv.org/pdf/1803.07132.pdf)
 - [Minimal cones and self-expanding solutions for mean curvature flows](https://link.springer.com/content/pdf/10.1007/s00208-019-01941-1.pdf), _Math. Ann._ 376(1-2), 2020, 359-405.[(arxiv:1503.02612)](https://arxiv.org/pdf/1503.02612.pdf)
-- A rigidity theorem on the second fundamental form for self-shrinkers, _Trans. A.M.S._ 370(12), 2018, 8311-8329.
-- The rigidity theorems of self shrinkers via Gauss maps, (with Y.L.Xin and Ling Yang), _Advances in Mathematics_ 303(5), 2016, 151-174.
-- Subsequent singularities of mean convex mean curvature flows in smooth manifolds, _Calc. Var. Partial Differential Equations_, 55(1), 2016, 1-12.
+- A rigidity theorem on the second fundamental form for self-shrinkers, _Trans. A.M.S._ 370(12), 2018, 8311-8329.[(arxiv:1701.07945)](https://arxiv.org/pdf/1701.07945.pdf)
+- The rigidity theorems of self shrinkers via Gauss maps, (with Y.L.Xin and Ling Yang), _Adv. Math._ 303(5), 2016, 151-174.
+- Subsequent singularities of mean convex mean curvature flows in smooth manifolds, _Calc. Var. Partial Differential Equations_, 55(1), 2016, 1-12.[(arxiv:1502.02430)](https://arxiv.org/pdf/1502.02430.pdf)
 - Existence and non-existence of area-minimizing hypersurfaces in manifolds of non-negative Ricci curvature, (with J.Jost and Y.L.Xin), _Amer. J. Math._, 138 (2016), no.2., 287-327.
 - Minimal graphic functions on manifolds of non-negative Ricci curvature, (with J.Jost and Y.L.Xin), _Comm. Pure Appl. Math._ 69(2) (2016), 323-371.
 - The rigidity theorems for Lagrangian self shrinkers, (with Y.L.Xin), _J. Reine. Angew. Math._ 692 (2014), 109-123.
 - The rigidity theorems of self shrinkers, (with Y.L.Xin), _Trans. A.M.S._ 366 (2014), 5067-5085.
-- Entire spacelike translating solitons in Minkowski space, _J. Funct. Anal._ 265 (2013), 3133-3162.
+- Entire spacelike translating solitons in Minkowski space, _J. Funct. Anal._ 265 (2013), 3133-3162.[(arxiv:1204.1826)](https://arxiv.org/pdf/1204.1826.pdf)
 - Volume growth, eigenvalue and compactness for self-shrinkers, (with Y.L.Xin), _Asian J. Math._ 17 (2013), 443-456.
-- On Chern's problem for rigidity of minimal hypersurfaces in the spheres, (with Y.L.Xin), _Advances in Mathematics_ 227(2011), 131-145.
+- On Chern's problem for rigidity of minimal hypersurfaces in the spheres, (with Y.L.Xin), _Adv. Math._ 227(2011), 131-145.
 - The inverse mean curvature flow in rotationally symmetric spaces, _Chin. Ann. Math._ 32B(1), 2011, 27-44.
 
 ### Preprints
