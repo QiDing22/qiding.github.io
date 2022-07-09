@@ -14,6 +14,8 @@ Email: dingqi@fudan.edu.cn
 
 ### Publications 
 
+- Minimal hypersurfaces in manifolds of Ricci curvature bounded below, to appear in _J. Reine. Angew. Math._, [(arXiv:2109.02483)](https://arxiv.org/pdf/2109.02483.pdf).
+- [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://rdcu.be/cRhMN), to appear in _Math. Ann._, [(arXiv:1912.00604)](https://arxiv.org/pdf/1912.00604.pdf).
 - [Liouville-type theorems for minimal graphs over manifolds](https://msp.org/apde/2021/14-6/apde-v14-n6-p11-p.pdf), _Analysis & PDE_ 14(6), (2021) 1925-1949.[(arxiv:1911.10306)](https://arxiv.org/pdf/1911.10306.pdf)
 - [A Bernstein type theorem for minimal hypersurfaces via Gauss maps](https://www.sciencedirect.com/science/article/pii/S0022123620300124?via%3Dihub), _J. Funct. Anal._ 278(11), 2020, 108469.[(arxiv:1803.07132)](https://arxiv.org/pdf/1803.07132.pdf)
 - [Minimal cones and self-expanding solutions for mean curvature flows](https://link.springer.com/content/pdf/10.1007/s00208-019-01941-1.pdf), _Math. Ann._ 376(1-2), 2020, 359-405.[(arxiv:1503.02612)](https://arxiv.org/pdf/1503.02612.pdf)
@@ -33,9 +35,7 @@ Email: dingqi@fudan.edu.cn
 
 - [Poincare inequality on minimal graphs over manifolds and applications](https://arxiv.org/pdf/2111.04458.pdf), arXiv:2111.04458.
 - [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://arxiv.org/pdf/2109.09383.pdf) (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), arXiv:2109.09383, 2021.
-- [Minimal hypersurfaces in manifolds of Ricci curvature bounded below](https://arxiv.org/pdf/2109.02483.pdf), arXiv:2109.02483.
 - [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://arxiv.org/pdf/2107.11074.pdf), arXiv:2107.11074.
-- [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://arxiv.org/pdf/1912.00604.pdf), arXiv:1912.00604.
 - Boundary regularity for minimal graphs of higher codimensions, (with Y.L.Xin), preprint
 - [Existence and non-existence of minimal graphs](https://arxiv.org/pdf/1701.01674.pdf), (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), arXiv:1701.01674.
 - [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
@@ -47,11 +47,12 @@ Email: dingqi@fudan.edu.cn
   Thesis Advisor: Prof. Yuanlong Xin  
   Thesis Topic: Some problems on geometric evolution equations  
 - Southeast University, Nanjing, China  
-  B. S. in Mathematics, June, 2007
+  B.S. in Mathematics, June, 2007
 
 ### Employment
 
 - Associate Professor, Shanghai Center for Mathematical Sciences, Fudan university, from July 2020
+- Visiting Scholar, Massachusetts Institute of Technology, U.S., Nov. 2017-Oct. 2018
 - Assistant Professor, Shanghai Center for Mathematical Sciences, Fudan university, July 2016-June 2020
 - Young Investigator, Shanghai Center for Mathematical Sciences, Fudan university, Sep. 2014-June 2016
 - Postdoctoral Fellow, Max Planck Institute for Mathematics in the Sciences(Leipzig), July 2012-Aug. 2014
