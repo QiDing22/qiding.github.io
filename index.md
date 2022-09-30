@@ -15,7 +15,7 @@ Email: dingqi@fudan.edu.cn
 ### Publications 
 
 
-- Boundary regularity for minimal graphs of higher codimensions, (with Y.L.Xin), to appear in _Chin. Ann. Math. B_ .
+- Boundary regularity for minimal graphs of higher codimensions, (with Y.L.Xin), to appear in _Chin. Ann. Math. B_.
 - [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://rdcu.be/cRhMN), to appear in _Math. Ann._, [(arXiv:1912.00604)](https://arxiv.org/pdf/1912.00604.pdf).
 - [Minimal hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2022-0050/html), _J. Reine. Angew. Math._ 791, 2022, 247–282., [(arXiv:2109.02483)](https://arxiv.org/pdf/2109.02483.pdf).
 - [Liouville-type theorems for minimal graphs over manifolds](https://msp.org/apde/2021/14-6/apde-v14-n6-p11-p.pdf), _Analysis & PDE_ 14(6), (2021) 1925-1949.[(arxiv:1911.10306)](https://arxiv.org/pdf/1911.10306.pdf)
