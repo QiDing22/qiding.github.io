@@ -15,6 +15,7 @@ Email: dingqi@fudan.edu.cn
 ### Publications 
 
 
+- Boundary regularity for minimal graphs of higher codimensions, (with Y.L.Xin), to appear in _Chin. Ann. Math. B_ .
 - [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://rdcu.be/cRhMN), to appear in _Math. Ann._, [(arXiv:1912.00604)](https://arxiv.org/pdf/1912.00604.pdf).
 - [Minimal hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2022-0050/html), _J. Reine. Angew. Math._ 791, 2022, 247–282., [(arXiv:2109.02483)](https://arxiv.org/pdf/2109.02483.pdf).
 - [Liouville-type theorems for minimal graphs over manifolds](https://msp.org/apde/2021/14-6/apde-v14-n6-p11-p.pdf), _Analysis & PDE_ 14(6), (2021) 1925-1949.[(arxiv:1911.10306)](https://arxiv.org/pdf/1911.10306.pdf)
@@ -37,7 +38,6 @@ Email: dingqi@fudan.edu.cn
 - [Poincare inequality on minimal graphs over manifolds and applications](https://arxiv.org/pdf/2111.04458.pdf), arXiv:2111.04458.
 - [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://arxiv.org/pdf/2109.09383.pdf) (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), arXiv:2109.09383, 2021.
 - [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://arxiv.org/pdf/2107.11074.pdf), arXiv:2107.11074.
-- Boundary regularity for minimal graphs of higher codimensions, (with Y.L.Xin), preprint
 - [Existence and non-existence of minimal graphs](https://arxiv.org/pdf/1701.01674.pdf), (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), arXiv:1701.01674.
 - [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
 
