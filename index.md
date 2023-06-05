@@ -15,7 +15,7 @@ Email: dingqi@fudan.edu.cn
 ### Publications 
 
 
-- [Existence and non-existence of minimal graphs], (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin),  to appear in _J.
+- Existence and non-existence of minimal graphs, (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin),  to appear in _J.
 Math. Pure Appl._, [(arXiv:1701.01674)](https://arxiv.org/pdf/1701.01674.pdf).
 - [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0008/html), _J. Reine. Angew. Math._ 798 (2023), 193-236., [(arXiv:2107.11074)](https://arxiv.org/pdf/2107.11074.pdf).
 - [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://rdcu.be/cRhMN), _Math. Ann._ 386, (2023) 1163-1200., [(arXiv:1912.00604)](https://arxiv.org/pdf/1912.00604.pdf).
