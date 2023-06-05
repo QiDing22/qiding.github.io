@@ -17,10 +17,10 @@ Email: dingqi@fudan.edu.cn
 
 - Existence and non-existence of minimal graphs, (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin),  to appear in _J.
 Math. Pure Appl._, [(arXiv:1701.01674)](https://arxiv.org/pdf/1701.01674.pdf).
-- [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0008/html), _J. Reine. Angew. Math._ 798 (2023), 193-236., [(arXiv:2107.11074)](https://arxiv.org/pdf/2107.11074.pdf).
-- [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://rdcu.be/cRhMN), _Math. Ann._ 386, (2023) 1163-1200., [(arXiv:1912.00604)](https://arxiv.org/pdf/1912.00604.pdf).
+- [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0008/html), _J. Reine. Angew. Math._ 798 (2023), 193-236. [(arXiv:2107.11074)](https://arxiv.org/pdf/2107.11074.pdf).
+- [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://rdcu.be/cRhMN), _Math. Ann._ 386, (2023) 1163-1200. [(arXiv:1912.00604)](https://arxiv.org/pdf/1912.00604.pdf).
 - [Boundary regularity for minimal graphs of higher codimensions](https://link.springer.com/article/10.1007/s11401-022-0364-z), (with Y.L.Xin), _Chin. Ann. Math._ 43B(5), 2022, 869-876.
-- [Minimal hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2022-0050/html), _J. Reine. Angew. Math._ 791 (2022), 247–282., [(arXiv:2109.02483)](https://arxiv.org/pdf/2109.02483.pdf).
+- [Minimal hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2022-0050/html), _J. Reine. Angew. Math._ 791 (2022), 247–282. [(arXiv:2109.02483)](https://arxiv.org/pdf/2109.02483.pdf).
 - [Liouville-type theorems for minimal graphs over manifolds](https://msp.org/apde/2021/14-6/apde-v14-n6-p11-p.pdf), _Analysis & PDE_ 14(6), (2021) 1925-1949.[(arxiv:1911.10306)](https://arxiv.org/pdf/1911.10306.pdf)
 - [A Bernstein type theorem for minimal hypersurfaces via Gauss maps](https://www.sciencedirect.com/science/article/pii/S0022123620300124?via%3Dihub), _J. Funct. Anal._ 278(11), 2020, 108469.[(arxiv:1803.07132)](https://arxiv.org/pdf/1803.07132.pdf)
 - [Minimal cones and self-expanding solutions for mean curvature flows](https://link.springer.com/content/pdf/10.1007/s00208-019-01941-1.pdf), _Math. Ann._ 376(1-2), 2020, 359-405.[(arxiv:1503.02612)](https://arxiv.org/pdf/1503.02612.pdf)
