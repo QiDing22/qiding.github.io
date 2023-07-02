@@ -38,6 +38,7 @@ Math. Pure Appl._. [(arXiv:1701.01674)](https://arxiv.org/pdf/1701.01674.pdf)
 
 ### Preprints
 
+- [Capacity for minimal graphs over manifolds and the half-space property](https://arxiv.org/pdf/2306.15137.pdf), arXiv:2306.15137.
 - [Poincare inequality on minimal graphs over manifolds and applications](https://arxiv.org/pdf/2111.04458.pdf), arXiv:2111.04458.
 - [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://arxiv.org/pdf/2109.09383.pdf) (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), arXiv:2109.09383, 2021.
 - [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
