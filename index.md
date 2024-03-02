@@ -15,7 +15,7 @@ Email: dingqi@fudan.edu.cn
 ### Publications 
 
 
-- [Existence and non-existence of minimal graphs](https://www.sciencedirect.com/science/article/pii/S0021782423001320), (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin),  _J. Math. Pure Appl._ 179, 2023, 391-424. [(arXiv:1701.01674)](https://arxiv.org/pdf/1701.01674.pdf)
+- [Existence and non-existence of minimal graphs](https://www.sciencedirect.com/science/article/pii/S0021782423001320), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin),  _J. Math. Pure Appl._ 179, 2023, 391-424. [(arXiv:1701.01674)](https://arxiv.org/pdf/1701.01674.pdf)
 - [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0008/html), _J. Reine. Angew. Math._ 798, 2023, 193-236. [(arXiv:2107.11074)](https://arxiv.org/pdf/2107.11074.pdf)
 - [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://rdcu.be/cRhMN), _Math. Ann._ 386, 2023, 1163-1200. [(arXiv:1912.00604)](https://arxiv.org/pdf/1912.00604.pdf)
 - [Boundary regularity for minimal graphs of higher codimensions](https://link.springer.com/article/10.1007/s11401-022-0364-z), (with Y.L.Xin), _Chin. Ann. Math._ 43B(5), 2022, 869-876.
@@ -26,8 +26,8 @@ Email: dingqi@fudan.edu.cn
 - [A rigidity theorem on the second fundamental form for self-shrinkers](https://www.ams.org/journals/tran/2018-370-12/S0002-9947-2018-07578-X/S0002-9947-2018-07578-X.pdf), _Trans. A.M.S._ 370(12), 2018, 8311-8329.[(arxiv:1701.07945)](https://arxiv.org/pdf/1701.07945.pdf)
 - [The rigidity theorems of self shrinkers via Gauss maps](https://www.sciencedirect.com/science/article/pii/S0001870816310465?via%3Dihub), (with Y.L.Xin and Ling Yang), _Adv. Math._ 303(5), 2016, 151-174.[(arxiv:1203.1096)](https://arxiv.org/pdf/1203.1096.pdf)
 - [Subsequent singularities of mean convex mean curvature flows in smooth manifolds](https://link.springer.com/content/pdf/10.1007/s00526-015-0937-8.pdf), _Calc. Var. Partial Differential Equations_, 55(1), 2016, 1-12.[(arxiv:1502.02430)](https://arxiv.org/pdf/1502.02430.pdf)
-- [Existence and non-existence of area-minimizing hypersurfaces in manifolds of non-negative Ricci curvature](https://muse.jhu.edu/article/613784/pdf), (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), _Amer. J. Math._, 138 (2016), no.2., 287-327.[(arxiv:1308.4963)](https://arxiv.org/pdf/1308.4963.pdf)
-- [Minimal graphic functions on manifolds of non-negative Ricci curvature](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cpa.21566), (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), _Comm. Pure Appl. Math._ 69(2) (2016), 323-371.[(arxiv:1310.2048)](https://arxiv.org/pdf/1310.2048.pdf)
+- [Existence and non-existence of area-minimizing hypersurfaces in manifolds of non-negative Ricci curvature](https://muse.jhu.edu/article/613784/pdf), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), _Amer. J. Math._, 138 (2016), no.2., 287-327.[(arxiv:1308.4963)](https://arxiv.org/pdf/1308.4963.pdf)
+- [Minimal graphic functions on manifolds of non-negative Ricci curvature](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cpa.21566), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), _Comm. Pure Appl. Math._ 69(2) (2016), 323-371.[(arxiv:1310.2048)](https://arxiv.org/pdf/1310.2048.pdf)
 - [The rigidity theorems for Lagrangian self shrinkers](https://www.degruyter.com/document/doi/10.1515/crelle-2012-0081/html), (with Y.L.Xin), _J. Reine. Angew. Math._ 692 (2014), 109-123.[(arxiv:1112.2453)](https://arxiv.org/pdf/1112.2453.pdf)
 - [The rigidity theorems of self shrinkers](https://www.ams.org/journals/tran/2014-366-10/S0002-9947-2014-05901-1/S0002-9947-2014-05901-1.pdf), (with Y.L.Xin), _Trans. A.M.S._ 366 (2014), 5067-5085.[(arxiv:1105.4962)](https://arxiv.org/pdf/1105.4962.pdf)
 - [Entire spacelike translating solitons in Minkowski space](https://www.sciencedirect.com/science/article/pii/S0022123613003650?via%3Dihub), _J. Funct. Anal._ 265 (2013), 3133-3162.[(arxiv:1204.1826)](https://arxiv.org/pdf/1204.1826.pdf)
@@ -40,7 +40,7 @@ Email: dingqi@fudan.edu.cn
 - [Liouville theorem for minimal graphs over manifolds of nonnegative Ricci curvature](https://arxiv.org/pdf/2401.03394.pdf), arXiv:2401.03394.
 - [Capacity for minimal graphs over manifolds and the half-space property](https://arxiv.org/pdf/2306.15137.pdf), arXiv:2306.15137.
 - [Poincare inequality on minimal graphs over manifolds and applications](https://arxiv.org/pdf/2111.04458.pdf), arXiv:2111.04458.
-- [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://arxiv.org/pdf/2109.09383.pdf) (with [J.Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and Y.L.Xin), arXiv:2109.09383, 2021.
+- [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://arxiv.org/pdf/2109.09383.pdf) (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), arXiv:2109.09383, 2021.
 - [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
 
 ### Education
