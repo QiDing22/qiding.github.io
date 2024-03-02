@@ -15,6 +15,7 @@ Email: dingqi@fudan.edu.cn
 ### Publications 
 
 
+- Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation, (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), to appear in _Math. Ann._, [(arXiv:2109.09383)](https://arxiv.org/pdf/2109.09383.pdf)
 - [Existence and non-existence of minimal graphs](https://www.sciencedirect.com/science/article/pii/S0021782423001320), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin),  _J. Math. Pure Appl._ 179, 2023, 391-424. [(arXiv:1701.01674)](https://arxiv.org/pdf/1701.01674.pdf)
 - [Area-minimizing hypersurfaces in manifolds of Ricci curvature bounded below](https://www.degruyter.com/document/doi/10.1515/crelle-2023-0008/html), _J. Reine. Angew. Math._ 798, 2023, 193-236. [(arXiv:2107.11074)](https://arxiv.org/pdf/2107.11074.pdf)
 - [Liouville type theorems and Hessian estimates for special Lagrangian equations](https://rdcu.be/cRhMN), _Math. Ann._ 386, 2023, 1163-1200. [(arXiv:1912.00604)](https://arxiv.org/pdf/1912.00604.pdf)
@@ -40,7 +41,7 @@ Email: dingqi@fudan.edu.cn
 - [Liouville theorem for minimal graphs over manifolds of nonnegative Ricci curvature](https://arxiv.org/pdf/2401.03394.pdf), arXiv:2401.03394.
 - [Capacity for minimal graphs over manifolds and the half-space property](https://arxiv.org/pdf/2306.15137.pdf), arXiv:2306.15137.
 - [Poincare inequality on minimal graphs over manifolds and applications](https://arxiv.org/pdf/2111.04458.pdf), arXiv:2111.04458.
-- [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://arxiv.org/pdf/2109.09383.pdf) (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), arXiv:2109.09383, 2021.
+- [Boundary regularity for mean curvature flows of higher codimension](https://arxiv.org/pdf/1706.01412.pdf), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), arXiv:1706.01412.
 - [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
 
 ### Education
