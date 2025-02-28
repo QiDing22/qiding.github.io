@@ -14,6 +14,7 @@ Email: dingqi@fudan.edu.cn
 
 ### Publications 
 
+- Poincare inequality on minimal graphs over manifolds and applications, to appear in _Cambridge J. Math._, [(arXiv:2111.04458)](https://arxiv.org/pdf/2111.04458.pdf).
 - Liouville theorem for minimal graphs over manifolds of nonnegative Ricci curvature, to appear in _Analysis & PDE_, [(arXiv:2401.03394)](https://arxiv.org/pdf/2401.03394.pdf).
 - [Boundary regularity for mean curvature flows of higher codimension](https://dds.sciengine.com/cfs/files/pdfs/view/1674-7283/A2BD2454E9914A9EB0A4A6F23D684B59.pdf), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin), to appear in _Sci. China Math._, 2024. [(arXiv:1706.01412)](https://arxiv.org/pdf/1706.01412.pdf)
 - [Minimal graphs of arbitrary codimension in Euclidean space with bounded 2-dilation](https://rdcu.be/d1I0k), (with [J.Jost](https://www.mis.mpg.de/people/juergen-jost) and Y.L.Xin),  _Math. Ann._ 390, 2024, 3355-3418., [(arXiv:2109.09383)](https://arxiv.org/pdf/2109.09383.pdf)
@@ -41,7 +42,6 @@ Email: dingqi@fudan.edu.cn
 
 - [Hessian estimates for Lagrangian mean curvature equation with Lipschitz critical and supercritical phases](https://arxiv.org/pdf/2411.07511.pdf), arXiv:2411.07511.
 - [Capacity for minimal graphs over manifolds and the half-space property](https://arxiv.org/pdf/2306.15137.pdf), arXiv:2306.15137.
-- [Poincare inequality on minimal graphs over manifolds and applications](https://arxiv.org/pdf/2111.04458.pdf), arXiv:2111.04458.
 - [On the self-shrinking systems in arbitrary codimensional spaces](https://arxiv.org/pdf/1012.0429.pdf), (with Zhizhang Wang), arXiv:1012.0429, 2010.
 
 ### Education
